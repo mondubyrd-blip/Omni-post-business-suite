@@ -1,0 +1,40 @@
+{
+  "store_id": "POPS-GRANNYS-WILCOX",
+  "business_name": "Pops & Granny's Thrift Store",
+  "platform_suite": "OmniPulse Business Suite",
+  "deployment_type": "independent_store_tenant",
+  "custom_domain": "",
+  "physical_address": "",
+  "city_state": "Chattanooga, TN",
+  "location_note": "Off Wilcox; exact street address not yet supplied",
+  "operating_hours": "",
+  "contact_phone": "",
+  "currency": "USD",
+  "consignment_enabled": false,
+  "consignment_policy": {
+    "consignor_split_pct": null,
+    "store_split_pct": null,
+    "consignment_period_days": null,
+    "markdown_threshold_days": null
+  },
+  "active_modules": [
+    "omnipulse_dashboard",
+    "storefront_catalog",
+    "inventory_manager",
+    "local_sales_ledger",
+    "promotions_calendar",
+    "marketplace_listing_drafts",
+    "senior_accessibility",
+    "pwa_offline_shell"
+  ],
+  "pending_integrations": [
+    "agape_engine",
+    "shared_inventory_backend",
+    "authenticated_staff_roles",
+    "payment_provider",
+    "tax_and_refund_rules",
+    "multi_device_sync",
+    "approved_marketplace_accounts"
+  ],
+  "sample_data": true
+}

@@ -20,7 +20,7 @@ OmniPulse is the reusable suite name, not the store's brand.
 | Omnichannel publishing | OmniPulse post composer + Empower marketplace selector | Prepare channel-specific listings and promotional posts | Draft-first; no live posting until account authorization and channel APIs are verified |
 | Customer drop chat | Empower Express Drop Chat | Customer questions and new-drop announcements | Review data flow, storage, and external dependencies first |
 | Senior experience | Lily suite UX patterns | Large controls, clear navigation, accessible task flows | Do not import Lily's nonprofit/client eligibility rules |
-| Voice assistance | Lily's Agape Immediate Presence concept + AGAPE Companion architecture | Voice navigation, spoken help, intent routing, knowledge lookup, TTS | Actual AGAPE implementation is not present in the DEV archive; browser speech is not equivalent |
+| Voice assistance | Lily's Agape Immediate Presence concept + AGAPE Companion architecture | Voice navigation, spoken help, intent routing, knowledge lookup, TTS | Lily's current implementation is browser TTS only (hard-coded prompts; no speech-recognition API found in the inspected suite HTML), while the DEV archive is planning documentation only. This is not a full conversational speech engine |
 | PWA/offline | Existing PWA shell patterns + Pops & Granny's PWA starter | Install prompt, manifest, service worker, offline app shell | Confirm offline data writes, sync conflicts, and update behavior |
 
 ## Suggested navigation

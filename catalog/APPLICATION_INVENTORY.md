@@ -63,7 +63,7 @@ Contains a start-here operations portal, commercial license agreement, retail ex
 - Volunteer registration, shifts, check-in, and hour exports.
 - Workforce intake / vocational training.
 - Director hub and discretionary price control.
-- Agape Immediate Presence voice engine.
+- Agape Immediate Presence voice engine. Inspection of the Lily suite HTML shows this is browser `speechSynthesis` / `SpeechSynthesisUtterance` output with a hard-coded informational message and alert; no browser speech-recognition API was found in that file. It is a basic TTS helper, not a full conversational speech engine.
 - Local/offline browser and launcher paths.
 
 **Role in Pops & Granny's:** reference for senior-friendly navigation, voice interaction, and accessible workflow design only. Keep Lily's community eligibility, donation-to-meal/shelter accounting, volunteer, and workforce policies isolated; they are not default commercial thrift-store rules.
